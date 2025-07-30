@@ -97,16 +97,3 @@ Este proyecto implementa un sistema completo de gestión de playa de estacionami
 
 Las contribuciones son bienvenidas. Por favor, lee nuestras pautas de contribución para más detalles.
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más información.
-
-## 📧 Contacto
-
-Para consultas o soporte, por favor contacta a [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
-
----
-
-<div align="center">
-  Hecho con ❤️ por [Tu Nombre] © 2024
-</div>
